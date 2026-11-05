@@ -4,7 +4,8 @@ Summary of a university project: multi-floor enterprise network designed and sim
 
 A summary of a multi-floor enterprise network I designed and simulated in Cisco Packet Tracer for a university assignment (Network Essentials). The full assessed work is not published here.
 
-![Network topology] <img width="786" height="663" alt="image" src="https://github.com/user-attachments/assets/4d4c0b66-95c6-457d-9eb3-81171def0c42" />
+[Network topology]
+<img width="786" height="663" alt="image" src="https://github.com/user-attachments/assets/4d4c0b66-95c6-457d-9eb3-81171def0c42" />
 
 
 ## Design
